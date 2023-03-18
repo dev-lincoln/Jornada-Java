@@ -1,4 +1,4 @@
-package edu.lincoln.java.loops_e_arrays;
+package edu.java.loops;
 
 import java.util.Scanner;
 
