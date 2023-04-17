@@ -49,6 +49,6 @@ public class LinguagemFavorita implements Comparable<LinguagemFavorita>{
 
     @Override
     public int compareTo(LinguagemFavorita linguagem) {
-        return this.getNome().compareToIgnoreCase(linguagem.getNome());
+        return this.nome.compareToIgnoreCase(linguagem.nome);
     }
 }
